@@ -1,3 +1,2 @@
-# Simple-Calc
-Trying to perfect a calculator in python
-idrk what im doing but this should not destroy your pc and should only run on python 
+# Little projects
+Hey there, this is just a little thing i did, i'll try to make a few funny projects on here. I hope I don't ruin anyone's day :))
