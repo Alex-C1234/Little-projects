@@ -42,4 +42,4 @@ while True:
     print('Losses', losses)
     print('Ties', ties)
 
-    print('\n---\n')
+    print('---')
